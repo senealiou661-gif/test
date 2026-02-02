@@ -2,4 +2,14 @@ mes contacts sont
 770768856
 774795323
 je 
-svp appele moi sur ses nume eeeedkddddj
+svp appele moi sur ses numero
+
+les command de git
+ 
+git init
+git status
+git diff
+git add .
+git commit -m "message"
+git remote add origin URL
+git push
