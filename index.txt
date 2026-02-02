@@ -2,3 +2,18 @@ hollo wold
 hello again
 je parle anglais
 et francais aussi
+
+
+📌 TABLEAU RÉCAPITULATIF (EXAMEN)
+
+Commande	Rôle
+git init	Créer dépôt
+git status	État
+git add	Préparer
+git commit	Sauvegarder
+git diff	Voir changements
+git push	Envoyer
+git pull	Récupérer
+git clone	Copier projet
+git branch	Branches
+git merge	
