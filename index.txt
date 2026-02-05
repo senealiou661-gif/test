@@ -17,3 +17,4 @@ git pull	Récupérer
 git clone	Copier projet
 git branch	Branches
 git merge	
+mamadou
